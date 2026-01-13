@@ -1,10 +1,5 @@
 # 🌐 42_webserv
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-98-blue.svg? style=flat&logo=cplusplus" alt="C++98" />
-  <img src="https://img.shields.io/badge/nginx-inspired-green.svg? style=flat&logo=nginx" alt="nginx-inspired" />
-</p>
-
 A lightweight yet performant **nginx-like HTTP web server** written in C++98, developed as part of the 42 School curriculum.  This project demonstrates deep understanding of network programming, HTTP protocol implementation, and concurrent I/O handling.
 
 ---
